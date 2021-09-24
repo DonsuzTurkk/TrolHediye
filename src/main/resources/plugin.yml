@@ -1,0 +1,8 @@
+name: TrolHediye
+version: '${project.version}'
+main: tr.donsuzturk.trolhediye.TrolHediye
+api-version: 1.16
+authors: [ DonsuzTurk ]
+commands:
+  trolhediye:
+    description: ana komut.
